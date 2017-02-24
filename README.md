@@ -6,7 +6,7 @@ jruby -S rake assets:precompile
 jruby -S warble war
 
 
-install a wildfly 10.0.1 / statup parameters
+install a wildfly 10.1 / statup parameters
 
 JBOSS_HOME="{path}/wildfly"
 
